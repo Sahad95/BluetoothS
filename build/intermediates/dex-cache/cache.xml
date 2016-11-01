@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0cd011e8272ca2198f2a0fa345f4c7f232ae811c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_a7ce6f00daa66cbe53694bda1e62e97b832c0b95/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c1f2ff31f3d43b292d2f10f0e169507481672c04/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_9583dc1082f749d98fe514f9daed034a99bdcbd8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_d58d8fdc75514e2351a85127b5df89fdbdfd996f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="8a1d2085f5c61e0e6ded0cffc58f06cf876c44c1">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_14ef80581b21e51d1cf3c395cfd5ebc2b856a344/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_48afb52aebb9cfa44aa73db6fd4ecda58dd206e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_d1878e8d217794f79f90356092209ae8f99e1d68/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_0b1829553802dc9dcfed89929f2bddabb18a9eb3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_797eda597c38dc15e806105cdfb69aef664cafa9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_9a12cea67cd721e7088cecd5cc5d0ea4e7760372/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_53e64193c8fe1311ce4983df4e78586ba734651f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="26ae533567bfca22d03e3e2f47733fd4139be5e3">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a84f2392539f3472bdad4b024748507e32751a5f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_c5afeee239d7e4843b7a6e8f6f99692a59091425/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_2b13881435edf29086093adfbe9d86d3456f15a9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f584e5e51ce21c807c2240534786a5328295fb83/classes.dex" />
+    </item>
+    <item
+        jar="/Users/13550365/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/13550365/Desktop/Presentacion moviles/Bluetooth/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_e246c7c6d09a24a5ad1652ed2ea620de3e0d4ff1/classes.dex" />
+    </item>
+
+</items>
